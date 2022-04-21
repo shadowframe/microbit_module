@@ -14,7 +14,7 @@ while True:
         sleep(2000)
     elif button_b.was_pressed():
         display.show(all_boats, delay=200)
-        print("Hallo1")
+        print("Hallo")
         print(os.listdir())
         sleep(2000)
     sleep(100)
